@@ -1,6 +1,6 @@
 ---
 name: rembrandt
-description: Claude can now generate pictures on its own without thidr-party models and APIs
+description: Claude can now generate pictures on its own without third-party models and APIs
 allowed-tools: Read Write Edit Bash(python *render.py *) Bash(ls *) Bash(grep *)
 ---
 
