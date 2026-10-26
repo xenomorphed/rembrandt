@@ -1,4 +1,4 @@
-# svg-painting
+# rembrandt
 
 A [Claude Code](https://code.claude.com) skill that lets the agent paint pictures as SVG and check its own work visually.
 
